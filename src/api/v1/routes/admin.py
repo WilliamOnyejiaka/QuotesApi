@@ -40,7 +40,7 @@ def fill_table():
 
 @admin.route("/test")
 def test():
-    return (Quotes()).count_all()
+    return "Hello"
 
 
 @admin.delete("/drop-table")
