@@ -11,7 +11,7 @@ MarkupSafe==2.1.2
 psycopg2==2.9.5
 psycopg2-binary==2.9.5
 pycodestyle==2.10.0
-python-dotenv==1.0.0
+python-dotenv
 six==1.16.0
 tomli==2.0.1
 Werkzeug==2.2.3
