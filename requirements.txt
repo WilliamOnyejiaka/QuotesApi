@@ -8,6 +8,7 @@ importlib-metadata
 itsdangerous
 Jinja2
 MarkupSafe
+gunicorn
 psycopg2
 psycopg2-binary
 pycodestyle
